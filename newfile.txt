@@ -1,0 +1,13 @@
+add some contents:
+Fork this repo
+Clone this repo
+Update the README: add some lines to the end and push them to GitHub
+Create a new file called newfile.txt, add some contents to it and push it to GitHub
+
+
+add some changes:
+i don't know change what?
+
+
+add some changes on github:
+this is ammazing!
